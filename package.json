@@ -12,7 +12,7 @@
     },
     "scripts": {
         "predeploy": "npm run build",
-        "deploy": "gh-pages -b master -d build",
+        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
@@ -24,5 +24,5 @@
     "browserslist": [
         ">0.2%", "not dead", "not ie <= 11", "not op_mini all"
     ],
-    "homepage": "https://rumblefi.github.io"
+    "homepage": "https://rumblefi.github.io/adopt/"
 }
